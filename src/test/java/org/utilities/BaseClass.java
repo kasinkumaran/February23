@@ -358,4 +358,6 @@ public class BaseClass {
 		return value;
 	}
 
+	System.out.println("G");
+	
 }
