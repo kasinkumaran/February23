@@ -356,8 +356,5 @@ public class BaseClass {
 			value = String.valueOf(l);
 		}
 		return value;
-	}
-
-	System.out.println("G");
-	
+	}	
 }
